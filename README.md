@@ -1,4 +1,4 @@
-# ahccd-postprocessing
+# ahccd-reformatting
 Reformats txt data files in the Adjusted and Homogenized Canadian Climate Dataset (AHCCD) for daily temperature and precipitation.
 
 ## Input files (/data)
